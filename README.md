@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white" />
 </p>
 
+![](./profile-3d-contrib/profile-3d-contrib/profile-gitblock.svg)
 <!--
 **yujinkimmn/yujinkimmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
